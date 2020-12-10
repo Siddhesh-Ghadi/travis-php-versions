@@ -2,11 +2,10 @@ arch:
   - amd64
   - ppc64le
 
-dist: bionic
+dist: focal
 language: php
 
 php:
-  - 5.5
   - 5.6
   - 7.0
   - 7.1
